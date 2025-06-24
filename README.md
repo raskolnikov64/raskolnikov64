@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ariek Pramudya Taufik 🐏, I'm currently learning Competitive Programming and some Web Development stuff.
+
